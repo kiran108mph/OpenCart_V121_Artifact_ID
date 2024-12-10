@@ -1,0 +1,45 @@
+2024-12-11 00:49:50.780 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Select Log In button
+2024-12-11 00:49:51.276 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Enter Login mail id
+2024-12-11 00:49:51.527 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Enter Login Password
+2024-12-11 00:49:51.679 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Click on Log in Button
+2024-12-11 00:49:51.832 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Validate My account page
+2024-12-11 00:49:52.280 [main] INFO  testCases.TC003_LoginToMyAccountDDT - The login succesfull with Valid data. So the test case is Passed
+2024-12-11 00:49:55.658 [main] INFO  testCases.TC003_LoginToMyAccountDDT - <------TC003_LoginToMyAccountDDT Test case is Completed ------>
+2024-12-11 00:49:55.667 [main] INFO  testCases.TC003_LoginToMyAccountDDT - <------TC003_LoginToMyAccountDDT Test case is started ------>
+2024-12-11 00:49:55.670 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Click on My account dropdown
+2024-12-11 00:49:55.813 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Select Log In button
+2024-12-11 00:50:00.421 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Enter Login mail id
+2024-12-11 00:50:00.691 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Enter Login Password
+2024-12-11 00:50:00.844 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Click on Log in Button
+2024-12-11 00:50:00.987 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Validate My account page
+2024-12-11 00:50:11.025 [main] INFO  testCases.TC003_LoginToMyAccountDDT - The login is unsuccesfull with Invalid data. So the test case is Passed
+2024-12-11 00:50:14.033 [main] INFO  testCases.TC003_LoginToMyAccountDDT - <------TC003_LoginToMyAccountDDT Test case is Completed ------>
+2024-12-11 01:08:23.762 [main] INFO  testCases.TC001_AccountRegistration_Test - <-----TC001_AccountRegistration_Test script started from here----->
+2024-12-11 01:08:23.867 [main] INFO  testCases.TC001_AccountRegistration_Test - Click My account drop down
+2024-12-11 01:08:24.883 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on My account drop down
+2024-12-11 01:08:24.883 [main] INFO  testCases.TC001_AccountRegistration_Test - Select Register account from drop down
+2024-12-11 01:08:25.668 [main] INFO  testCases.TC001_AccountRegistration_Test - Selected Register account from drop down
+2024-12-11 01:08:25.683 [main] INFO  testCases.TC001_AccountRegistration_Test - Enter customer details
+2024-12-11 01:08:26.607 [main] INFO  testCases.TC001_AccountRegistration_Test - Entered customer details
+2024-12-11 01:08:26.607 [main] INFO  testCases.TC001_AccountRegistration_Test - Click on continue button
+2024-12-11 01:08:26.689 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on continue button
+2024-12-11 01:08:26.690 [main] INFO  testCases.TC001_AccountRegistration_Test - Validate the confirmation message
+2024-12-11 01:08:27.817 [main] INFO  testCases.TC001_AccountRegistration_Test - Validated the confirmation message
+2024-12-11 01:08:27.818 [main] INFO  testCases.TC001_AccountRegistration_Test - <-----TC001_AccountRegistration_Test script ends here----->
+2024-12-11 01:08:33.546 [main] INFO  testCases.TC002_LogInToMyAccount - <------TC002_LogInToMyAccount Test case is started ------>
+2024-12-11 01:08:33.547 [main] INFO  testCases.TC002_LogInToMyAccount - Click on My account dropdown
+2024-12-11 01:08:33.975 [main] INFO  testCases.TC002_LogInToMyAccount - Select Log In button
+2024-12-11 01:08:35.039 [main] INFO  testCases.TC002_LogInToMyAccount - Enter Login mail id
+2024-12-11 01:08:35.400 [main] INFO  testCases.TC002_LogInToMyAccount - Enter Login Password
+2024-12-11 01:08:35.578 [main] INFO  testCases.TC002_LogInToMyAccount - Click on Log in Button
+2024-12-11 01:08:36.345 [main] INFO  testCases.TC002_LogInToMyAccount - Validate My account page
+2024-12-11 01:08:36.346 [main] INFO  testCases.TC002_LogInToMyAccount - Validated My account page
+2024-12-11 01:08:36.788 [main] INFO  testCases.TC002_LogInToMyAccount - <------TC002_LogInToMyAccount Test case is Completed ------>
+2024-12-11 01:13:11.298 [main] INFO  testCases.TC001_AccountRegistration_Test - <-----TC001_AccountRegistration_Test script started from here----->
+2024-12-11 01:13:11.488 [main] INFO  testCases.TC001_AccountRegistration_Test - Click My account drop down
+2024-12-11 01:13:12.310 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on My account drop down
+2024-12-11 01:13:12.311 [main] INFO  testCases.TC001_AccountRegistration_Test - Select Register account from drop down
+2024-12-11 01:13:13.293 [main] INFO  testCases.TC001_AccountRegistration_Test - Selected Register account from drop down
+2024-12-11 01:13:13.301 [main] INFO  testCases.TC001_AccountRegistration_Test - Enter customer details
+2024-12-11 01:13:14.227 [main] INFO  testCases.TC001_AccountRegistration_Test - Entered customer details
+2024-12-11 01:13:14.228 [main] INFO  testCases.TC001_AccountRegistration_Test - Click on continue button

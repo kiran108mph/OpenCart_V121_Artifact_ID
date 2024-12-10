@@ -1,0 +1,42 @@
+2024-12-06 20:24:45.512 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - Entered customer details
+2024-12-06 20:24:45.540 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - Click on continue button
+2024-12-06 20:24:45.722 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - Clicked on continue button
+2024-12-06 20:24:45.723 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - Validate the confirmation message
+2024-12-06 20:24:46.195 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - Entered customer details
+2024-12-06 20:24:46.195 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - Click on continue button
+2024-12-06 20:24:46.343 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - Clicked on continue button
+2024-12-06 20:24:46.344 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - Validate the confirmation message
+2024-12-06 20:24:46.546 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - Validated the confirmation message
+2024-12-06 20:24:46.548 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - <-----The script ends here----->
+2024-12-06 20:24:47.202 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - Validated the confirmation message
+2024-12-06 20:24:47.203 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - <-----The script ends here----->
+2024-12-06 20:25:26.325 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - <-----The script started from here----->
+2024-12-06 20:25:26.325 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - <-----The script started from here----->
+2024-12-06 20:25:26.390 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - Click My account drop down
+2024-12-06 20:25:26.396 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - Click My account drop down
+2024-12-06 20:25:26.769 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - Clicked on My account drop down
+2024-12-06 20:25:26.770 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - Select Register account from drop down
+2024-12-06 20:25:26.940 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - Clicked on My account drop down
+2024-12-06 20:25:26.941 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - Select Register account from drop down
+2024-12-06 20:25:27.637 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - Selected Register account from drop down
+2024-12-06 20:25:27.646 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - Enter customer details
+2024-12-06 20:25:27.800 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - Selected Register account from drop down
+2024-12-06 20:25:27.802 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - Enter customer details
+2024-12-06 20:25:28.774 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - Entered customer details
+2024-12-06 20:25:28.776 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - Click on continue button
+2024-12-06 20:25:28.859 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - Clicked on continue button
+2024-12-06 20:25:28.861 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - Validate the confirmation message
+2024-12-06 20:25:29.343 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - Entered customer details
+2024-12-06 20:25:29.344 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - Click on continue button
+2024-12-06 20:25:29.496 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - Validated the confirmation message
+2024-12-06 20:25:29.497 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - <-----The script ends here----->
+2024-12-06 20:25:29.658 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - Clicked on continue button
+2024-12-06 20:25:29.660 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - Validate the confirmation message
+2024-12-06 20:25:30.318 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - Validated the confirmation message
+2024-12-06 20:25:30.319 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - <-----The script ends here----->
+2024-12-06 20:46:33.644 [main] INFO  testCases.TC001_AccountRegistration_Test - <-----The script started from here----->
+2024-12-06 20:46:33.710 [main] INFO  testCases.TC001_AccountRegistration_Test - Click My account drop down
+2024-12-06 20:46:33.948 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on My account drop down
+2024-12-06 20:46:33.949 [main] INFO  testCases.TC001_AccountRegistration_Test - Select Register account from drop down
+2024-12-06 20:46:34.451 [main] INFO  testCases.TC001_AccountRegistration_Test - Selected Register account from drop down
+2024-12-06 20:46:34.460 [main] INFO  testCases.TC001_AccountRegistration_Test - Enter customer details

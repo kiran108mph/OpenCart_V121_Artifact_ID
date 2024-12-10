@@ -1,0 +1,13 @@
+2024-12-11 01:13:14.321 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on continue button
+2024-12-11 01:13:14.338 [main] INFO  testCases.TC001_AccountRegistration_Test - Validate the confirmation message
+2024-12-11 01:13:15.054 [main] INFO  testCases.TC001_AccountRegistration_Test - Validated the confirmation message
+2024-12-11 01:13:15.055 [main] INFO  testCases.TC001_AccountRegistration_Test - <-----TC001_AccountRegistration_Test script ends here----->
+2024-12-11 01:13:21.428 [main] INFO  testCases.TC002_LogInToMyAccount - <------TC002_LogInToMyAccount Test case is started ------>
+2024-12-11 01:13:21.762 [main] INFO  testCases.TC002_LogInToMyAccount - Click on My account dropdown
+2024-12-11 01:13:22.093 [main] INFO  testCases.TC002_LogInToMyAccount - Select Log In button
+2024-12-11 01:13:23.255 [main] INFO  testCases.TC002_LogInToMyAccount - Enter Login mail id
+2024-12-11 01:13:23.582 [main] INFO  testCases.TC002_LogInToMyAccount - Enter Login Password
+2024-12-11 01:13:23.778 [main] INFO  testCases.TC002_LogInToMyAccount - Click on Log in Button
+2024-12-11 01:13:24.703 [main] INFO  testCases.TC002_LogInToMyAccount - Validate My account page
+2024-12-11 01:13:24.703 [main] INFO  testCases.TC002_LogInToMyAccount - Validated My account page
+2024-12-11 01:13:25.268 [main] INFO  testCases.TC002_LogInToMyAccount - <------TC002_LogInToMyAccount Test case is Completed ------>

@@ -1,0 +1,43 @@
+2024-12-09 01:46:45.408 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - Selected Register account from drop down
+2024-12-09 01:46:45.421 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - Enter customer details
+2024-12-09 01:46:46.415 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - Entered customer details
+2024-12-09 01:46:46.416 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - Click on continue button
+2024-12-09 01:46:46.504 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - Clicked on continue button
+2024-12-09 01:46:46.504 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - Validate the confirmation message
+2024-12-09 01:46:47.238 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - Validated the confirmation message
+2024-12-09 01:46:47.238 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - <-----The script ends here----->
+2024-12-09 01:46:53.898 [TestNG-tests-2] INFO  testCases.TC002_LogInToMyAccount - <------The Test case is started ------>
+2024-12-09 01:46:53.900 [TestNG-tests-2] INFO  testCases.TC002_LogInToMyAccount - Click on My account dropdown
+2024-12-09 01:46:54.242 [TestNG-tests-2] INFO  testCases.TC002_LogInToMyAccount - Select Log In button
+2024-12-09 01:46:54.917 [TestNG-tests-2] INFO  testCases.TC002_LogInToMyAccount - Enter Login mail id
+2024-12-09 01:46:55.214 [TestNG-tests-2] INFO  testCases.TC002_LogInToMyAccount - Enter Login Password
+2024-12-09 01:46:55.381 [TestNG-tests-2] INFO  testCases.TC002_LogInToMyAccount - Click on Log in Button
+2024-12-09 01:46:56.015 [TestNG-tests-2] INFO  testCases.TC002_LogInToMyAccount - Validate My account page
+2024-12-09 01:46:56.015 [TestNG-tests-2] INFO  testCases.TC002_LogInToMyAccount - Validated My account page
+2024-12-09 01:46:56.436 [TestNG-tests-2] INFO  testCases.TC002_LogInToMyAccount - <------The Test case is Completed ------>
+2024-12-10 23:26:35.262 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - <-----The script started from here----->
+2024-12-10 23:26:35.781 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - Click My account drop down
+2024-12-10 23:26:37.115 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - Clicked on My account drop down
+2024-12-10 23:26:37.116 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - Select Register account from drop down
+2024-12-10 23:26:38.942 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - Selected Register account from drop down
+2024-12-10 23:26:38.952 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - Enter customer details
+2024-12-10 23:26:43.246 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - Entered customer details
+2024-12-10 23:26:43.246 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - Click on continue button
+2024-12-10 23:26:43.583 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - Clicked on continue button
+2024-12-10 23:26:43.586 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - Validate the confirmation message
+2024-12-10 23:26:44.992 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - Validated the confirmation message
+2024-12-10 23:26:44.993 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration_Test - <-----The script ends here----->
+2024-12-10 23:27:03.753 [TestNG-tests-2] INFO  testCases.TC002_LogInToMyAccount - <------The Test case is started ------>
+2024-12-10 23:27:03.758 [TestNG-tests-2] INFO  testCases.TC002_LogInToMyAccount - Click on My account dropdown
+2024-12-10 23:27:04.421 [TestNG-tests-2] INFO  testCases.TC002_LogInToMyAccount - Select Log In button
+2024-12-10 23:27:05.205 [TestNG-tests-2] INFO  testCases.TC002_LogInToMyAccount - Enter Login mail id
+2024-12-10 23:27:05.612 [TestNG-tests-2] INFO  testCases.TC002_LogInToMyAccount - Enter Login Password
+2024-12-10 23:27:05.816 [TestNG-tests-2] INFO  testCases.TC002_LogInToMyAccount - Click on Log in Button
+2024-12-10 23:27:07.797 [TestNG-tests-2] INFO  testCases.TC002_LogInToMyAccount - Validate My account page
+2024-12-10 23:27:07.800 [TestNG-tests-2] INFO  testCases.TC002_LogInToMyAccount - Validated My account page
+2024-12-10 23:27:07.934 [TestNG-tests-2] INFO  testCases.TC002_LogInToMyAccount - <------The Test case is Completed ------>
+2024-12-10 23:27:27.180 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - <-----The script started from here----->
+2024-12-10 23:27:27.183 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - Click My account drop down
+2024-12-10 23:27:27.628 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - Clicked on My account drop down
+2024-12-10 23:27:27.629 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - Select Register account from drop down
+2024-12-10 23:27:28.794 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration_Test - Selected Register account from drop down
