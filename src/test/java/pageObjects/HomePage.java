@@ -21,7 +21,7 @@ public class HomePage extends BasePage{
 	 * msg - message
 	 */
 
-	@FindBy(xpath = "//div[@class='dropdown']//span[text()='My Account']")
+	@FindBy(xpath = "//*[@title='My Account']")
 	WebElement lnkMyAccount;
 	
 	@FindBy(xpath = "//a[text()='Register']")

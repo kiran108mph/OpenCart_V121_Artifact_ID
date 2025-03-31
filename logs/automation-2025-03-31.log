@@ -1,0 +1,37 @@
+2025-03-31 05:01:11.093 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-31 05:01:11.108 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-31 05:01:11.108 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-03-31 05:01:11.124 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-31 05:01:11.206 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-31 05:01:11.206 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-31 05:01:11.206 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-03-31 05:01:11.206 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-31 05:01:11.334 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-31 05:01:11.334 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-31 05:01:11.334 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-03-31 05:01:11.334 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-31 05:01:11.412 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-31 05:01:11.412 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-31 05:01:11.428 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-03-31 05:01:11.428 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-31 05:01:11.491 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-31 05:01:11.506 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-31 05:01:11.506 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-03-31 05:01:11.522 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-31 05:01:11.600 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-31 05:01:11.616 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-31 05:01:11.616 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-03-31 05:01:11.616 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-31 05:01:11.741 [main] INFO  testCases.TC003_LoginToMyAccountDDT - <------TC003_LoginToMyAccountDDT Test case is started ------>
+2025-03-31 05:01:11.803 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Click on My account dropdown
+2025-03-31 05:01:12.050 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Select Log In button
+2025-03-31 05:01:12.709 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Enter Login mail id
+2025-03-31 05:01:13.051 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Enter Login Password
+2025-03-31 05:01:13.260 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Click on Log in Button
+2025-03-31 05:01:14.155 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Validate My account page
+2025-03-31 05:01:14.258 [main] INFO  testCases.TC003_LoginToMyAccountDDT - The login succesfull with Valid data. So the test case is Passed
+2025-03-31 05:01:17.884 [main] INFO  testCases.TC003_LoginToMyAccountDDT - <------TC003_LoginToMyAccountDDT Test case is Completed ------>
+2025-03-31 05:01:17.899 [main] INFO  testCases.TC003_LoginToMyAccountDDT - <------TC003_LoginToMyAccountDDT Test case is started ------>
+2025-03-31 05:01:17.899 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Click on My account dropdown
+2025-03-31 05:01:18.043 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Select Log In button
+2025-03-31 05:01:18.557 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Enter Login mail id

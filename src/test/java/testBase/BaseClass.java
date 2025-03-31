@@ -33,6 +33,7 @@ public class BaseClass {
 	//@BeforeClass(groups = {"sanity","regression","dataDriven","master"})
 	@SuppressWarnings("deprecation")
 	@BeforeClass(groups = {"common"})
+	//@BeforeClass //Other than @Test groups are no need to mention, its not mandatory.
 	@Parameters({"os","browser"})
 	public void setUp(String operatingSystem, String  browserName) throws IOException 
 	{
@@ -77,7 +78,7 @@ public class BaseClass {
 		}
 				
 		driver.manage().deleteAllCookies();
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 		driver.get(property.getProperty("url1"));
 		driver.manage().window().maximize();
 	} 
@@ -85,6 +86,7 @@ public class BaseClass {
 	
 	//@AfterClass(groups = {"sanity","regression","dataDriven","master"})
 	@AfterClass(groups = {"common"})
+	//@AfterClass //Other than @Test groups are no need to mention, its not mandatory.
 	public void tearDown() 
 	{
 		driver.quit();

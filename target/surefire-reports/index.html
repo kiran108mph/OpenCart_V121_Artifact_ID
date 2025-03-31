@@ -50,7 +50,7 @@
               <ul>
                 <li>
                   <a href="#" panel-name="test-xml-Suite" class="navigator-link ">
-                    <span>C:\Users\kiran\eclipse-workspace\OpenCart_V121_Artifact_ID\master.xml</span>
+                    <span>C:\Users\kiran\eclipse-workspace\OpenCart_V121_Artifact_ID\E2EdryrunTestng.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -126,21 +126,6 @@
           <div class="suite-Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
-              <span class="class-name">testCases.TC002_LogInToMyAccount</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="loginIntoMyAccount">
-                  </a> <!-- loginIntoMyAccount -->
-                  <span class="method-name">loginIntoMyAccount</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Suite-class-passed -->
-          <div class="suite-Suite-class-passed">
-            <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
               <span class="class-name">testCases.TC001_AccountRegistration_Test</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
@@ -153,27 +138,56 @@
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
           </div> <!-- suite-Suite-class-passed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">testCases.TC002_LogInToMyAccount</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginIntoMyAccount">
+                  </a> <!-- loginIntoMyAccount -->
+                  <span class="method-name">loginIntoMyAccount</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
         </div> <!-- panel Suite -->
         <div panel-name="test-xml-Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">C:\Users\kiran\eclipse-workspace\OpenCart_V121_Artifact_ID\master.xml</span>
+            <span class="header-content">C:\Users\kiran\eclipse-workspace\OpenCart_V121_Artifact_ID\E2EdryrunTestng.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
 &lt;suite name=&quot;Suite&quot; guice-stage=&quot;DEVELOPMENT&quot; verbose=&quot;0&quot;&gt;
+  &lt;groups&gt;
+    &lt;run&gt;
+      &lt;include name=&quot;common&quot;/&gt;
+      &lt;include name=&quot;regression&quot;/&gt;
+      &lt;include name=&quot;sanity&quot;/&gt;
+    &lt;/run&gt;
+  &lt;/groups&gt;
+  &lt;groups&gt;
+    &lt;run&gt;
+      &lt;include name=&quot;common&quot;/&gt;
+      &lt;include name=&quot;regression&quot;/&gt;
+      &lt;include name=&quot;sanity&quot;/&gt;
+    &lt;/run&gt;
+  &lt;/groups&gt;
   &lt;listeners&gt;
     &lt;listener class-name=&quot;testUtilities.ExtentReportManager&quot;/&gt;
   &lt;/listeners&gt;
-  &lt;test thread-count=&quot;5&quot; name=&quot;Test1 linux and chrome&quot; verbose=&quot;0&quot;&gt;
-    &lt;parameter name=&quot;os&quot; value=&quot;windows&quot;/&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;Test&quot; verbose=&quot;0&quot;&gt;
+    &lt;parameter name=&quot;os&quot; value=&quot;linux&quot;/&gt;
     &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
     &lt;classes&gt;
       &lt;class name=&quot;testCases.TC001_AccountRegistration_Test&quot;/&gt;
       &lt;class name=&quot;testCases.TC002_LogInToMyAccount&quot;/&gt;
     &lt;/classes&gt;
-  &lt;/test&gt; &lt;!-- Test1 linux and chrome --&gt;
+  &lt;/test&gt; &lt;!-- Test --&gt;
 &lt;/suite&gt; &lt;!-- Suite --&gt;
             </pre>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -185,7 +199,7 @@
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">Test1 linux and chrome (2 classes)</span>
+                <span class="test-name">Test (2 classes)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -243,16 +257,16 @@ data.addRows(2);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'verfiAccountRegistration')
 data.setCell(0, 2, 'testCases.TC001_AccountRegistration_Test')
-data.setCell(0, 3, 3857);
+data.setCell(0, 3, 9158);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'loginIntoMyAccount')
 data.setCell(1, 2, 'testCases.TC002_LogInToMyAccount')
-data.setCell(1, 3, 3845);
+data.setCell(1, 3, 3702);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 7 seconds</span>
+              <span class="suite-total-time">Total running time: 12 seconds</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -280,31 +294,31 @@ return data;
             <div class="chronological-class">
               <div class="chronological-class-name">testCases.TC001_AccountRegistration_Test</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
-                <span class="method-name">setUp(windows, chrome)</span>
+                <span class="method-name">setUp(linux, chrome)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">verfiAccountRegistration</span>
-                <span class="method-start">8435 ms</span>
+                <span class="method-start">8713 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">12332 ms</span>
+                <span class="method-start">17924 ms</span>
               </div> <!-- configuration-class after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">testCases.TC002_LogInToMyAccount</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
-                <span class="method-name">setUp(windows, chrome)</span>
-                <span class="method-start">12750 ms</span>
+                <span class="method-name">setUp(linux, chrome)</span>
+                <span class="method-start">18399 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">loginIntoMyAccount</span>
-                <span class="method-start">18663 ms</span>
+                <span class="method-start">26843 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">22525 ms</span>
+                <span class="method-start">30553 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

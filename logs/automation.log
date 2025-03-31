@@ -1,13 +1,246 @@
-2024-12-11 01:13:14.321 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on continue button
-2024-12-11 01:13:14.338 [main] INFO  testCases.TC001_AccountRegistration_Test - Validate the confirmation message
-2024-12-11 01:13:15.054 [main] INFO  testCases.TC001_AccountRegistration_Test - Validated the confirmation message
-2024-12-11 01:13:15.055 [main] INFO  testCases.TC001_AccountRegistration_Test - <-----TC001_AccountRegistration_Test script ends here----->
-2024-12-11 01:13:21.428 [main] INFO  testCases.TC002_LogInToMyAccount - <------TC002_LogInToMyAccount Test case is started ------>
-2024-12-11 01:13:21.762 [main] INFO  testCases.TC002_LogInToMyAccount - Click on My account dropdown
-2024-12-11 01:13:22.093 [main] INFO  testCases.TC002_LogInToMyAccount - Select Log In button
-2024-12-11 01:13:23.255 [main] INFO  testCases.TC002_LogInToMyAccount - Enter Login mail id
-2024-12-11 01:13:23.582 [main] INFO  testCases.TC002_LogInToMyAccount - Enter Login Password
-2024-12-11 01:13:23.778 [main] INFO  testCases.TC002_LogInToMyAccount - Click on Log in Button
-2024-12-11 01:13:24.703 [main] INFO  testCases.TC002_LogInToMyAccount - Validate My account page
-2024-12-11 01:13:24.703 [main] INFO  testCases.TC002_LogInToMyAccount - Validated My account page
-2024-12-11 01:13:25.268 [main] INFO  testCases.TC002_LogInToMyAccount - <------TC002_LogInToMyAccount Test case is Completed ------>
+2025-03-31 05:01:18.852 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Enter Login Password
+2025-03-31 05:01:19.106 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Click on Log in Button
+2025-03-31 05:01:19.989 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Validate My account page
+2025-03-31 05:01:40.112 [main] INFO  testCases.TC003_LoginToMyAccountDDT - The login is unsuccesfull with Invalid data. So the test case is Passed
+2025-03-31 05:01:43.121 [main] INFO  testCases.TC003_LoginToMyAccountDDT - <------TC003_LoginToMyAccountDDT Test case is Completed ------>
+2025-03-31 05:01:43.148 [main] INFO  testCases.TC003_LoginToMyAccountDDT - <------TC003_LoginToMyAccountDDT Test case is started ------>
+2025-03-31 05:01:43.150 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Click on My account dropdown
+2025-03-31 05:01:43.864 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Select Log In button
+2025-03-31 05:01:45.461 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Enter Login mail id
+2025-03-31 05:01:45.895 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Enter Login Password
+2025-03-31 05:01:46.166 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Click on Log in Button
+2025-03-31 05:01:47.312 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Validate My account page
+2025-03-31 05:01:47.413 [main] INFO  testCases.TC003_LoginToMyAccountDDT - The login succesfull with Valid data. So the test case is Passed
+2025-03-31 05:01:51.390 [main] INFO  testCases.TC003_LoginToMyAccountDDT - <------TC003_LoginToMyAccountDDT Test case is Completed ------>
+2025-03-31 05:01:51.416 [main] INFO  testCases.TC003_LoginToMyAccountDDT - <------TC003_LoginToMyAccountDDT Test case is started ------>
+2025-03-31 05:01:51.424 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Click on My account dropdown
+2025-03-31 05:01:51.666 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Select Log In button
+2025-03-31 05:01:54.307 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Enter Login mail id
+2025-03-31 05:01:54.782 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Enter Login Password
+2025-03-31 05:01:55.466 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Click on Log in Button
+2025-03-31 05:01:56.647 [main] INFO  testCases.TC003_LoginToMyAccountDDT - Validate My account page
+2025-03-31 05:02:16.685 [main] INFO  testCases.TC003_LoginToMyAccountDDT - The login is unsuccesfull with Invalid data. So the test case is Passed
+2025-03-31 05:02:19.688 [main] INFO  testCases.TC003_LoginToMyAccountDDT - <------TC003_LoginToMyAccountDDT Test case is Completed ------>
+2025-03-31 11:29:18.683 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kiran\eclipse-workspace\OpenCart_V121_Artifact_ID\groupingtestng.xml"
+2025-03-31 11:29:19.306 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kiran\eclipse-workspace\OpenCart_V121_Artifact_ID\groupingtestng.xml
+
+2025-03-31 11:31:34.327 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kiran\eclipse-workspace\OpenCart_V121_Artifact_ID\groupingtestng.xml"
+2025-03-31 11:31:34.934 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kiran\eclipse-workspace\OpenCart_V121_Artifact_ID\groupingtestng.xml
+
+2025-03-31 11:31:47.793 [main] INFO  testCases.TC001_AccountRegistration_Test - <-----TC001_AccountRegistration_Test script started from here----->
+2025-03-31 11:31:47.841 [main] INFO  testCases.TC001_AccountRegistration_Test - Click My account drop down
+2025-03-31 11:31:48.035 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on My account drop down
+2025-03-31 11:31:48.036 [main] INFO  testCases.TC001_AccountRegistration_Test - Select Register account from drop down
+2025-03-31 11:31:49.682 [main] INFO  testCases.TC001_AccountRegistration_Test - Selected Register account from drop down
+2025-03-31 11:31:49.703 [main] INFO  testCases.TC001_AccountRegistration_Test - Enter customer details
+2025-03-31 11:31:50.803 [main] INFO  testCases.TC001_AccountRegistration_Test - Entered customer details
+2025-03-31 11:31:50.803 [main] INFO  testCases.TC001_AccountRegistration_Test - Click on continue button
+2025-03-31 11:31:51.822 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on continue button
+2025-03-31 11:31:51.823 [main] INFO  testCases.TC001_AccountRegistration_Test - Validate the confirmation message
+2025-03-31 11:31:51.960 [main] INFO  testCases.TC001_AccountRegistration_Test - Validated the confirmation message
+2025-03-31 11:31:51.961 [main] INFO  testCases.TC001_AccountRegistration_Test - <-----TC001_AccountRegistration_Test script ends here----->
+2025-03-31 11:31:59.145 [main] INFO  testCases.TC002_LogInToMyAccount - <------TC002_LogInToMyAccount Test case is started ------>
+2025-03-31 11:31:59.149 [main] INFO  testCases.TC002_LogInToMyAccount - Click on My account dropdown
+2025-03-31 11:31:59.380 [main] INFO  testCases.TC002_LogInToMyAccount - Select Log In button
+2025-03-31 11:31:59.944 [main] INFO  testCases.TC002_LogInToMyAccount - Enter Login mail id
+2025-03-31 11:32:00.219 [main] INFO  testCases.TC002_LogInToMyAccount - Enter Login Password
+2025-03-31 11:32:00.422 [main] INFO  testCases.TC002_LogInToMyAccount - Click on Log in Button
+2025-03-31 11:32:01.577 [main] INFO  testCases.TC002_LogInToMyAccount - Validate My account page
+2025-03-31 11:32:01.578 [main] INFO  testCases.TC002_LogInToMyAccount - Validated My account page
+2025-03-31 11:32:02.249 [main] INFO  testCases.TC002_LogInToMyAccount - <------TC002_LogInToMyAccount Test case is Completed ------>
+2025-03-31 11:33:51.076 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kiran\eclipse-workspace\OpenCart_V121_Artifact_ID\groupingtestng.xml"
+2025-03-31 11:33:51.609 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kiran\eclipse-workspace\OpenCart_V121_Artifact_ID\groupingtestng.xml
+
+2025-03-31 11:33:59.821 [TestNG-test-Test-1] INFO  testCases.TC001_AccountRegistration_Test - <-----TC001_AccountRegistration_Test script started from here----->
+2025-03-31 11:33:59.821 [TestNG-test-Test-2] INFO  testCases.TC002_LogInToMyAccount - <------TC002_LogInToMyAccount Test case is started ------>
+2025-03-31 11:33:59.886 [TestNG-test-Test-1] INFO  testCases.TC001_AccountRegistration_Test - Click My account drop down
+2025-03-31 11:33:59.886 [TestNG-test-Test-2] INFO  testCases.TC002_LogInToMyAccount - Click on My account dropdown
+2025-03-31 11:34:00.168 [TestNG-test-Test-1] INFO  testCases.TC001_AccountRegistration_Test - Clicked on My account drop down
+2025-03-31 11:34:00.169 [TestNG-test-Test-1] INFO  testCases.TC001_AccountRegistration_Test - Select Register account from drop down
+2025-03-31 11:34:00.316 [TestNG-test-Test-2] INFO  testCases.TC002_LogInToMyAccount - Select Log In button
+2025-03-31 11:34:20.486 [TestNG-test-Test-1] ERROR testCases.TC001_AccountRegistration_Test - TC001_AccountRegistration_Test script got failed
+2025-03-31 11:34:20.501 [TestNG-test-Test-1] ERROR testCases.TC001_AccountRegistration_Test - element not interactable
+  (Session info: chrome=134.0.6998.178)
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fee8f13d07a72a07021caefd1b0132d5, clickElement {id=f.6946E53E0C33A9296FC562C2FF1769B8.d.0EC564B31EA9F73CF6C067A9D3D50755.e.116}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.178, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\kiran\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51044}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51044/devtoo..., se:cdpVersion: 134.0.6998.178, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (fee8f13d07a72a07021caefd1b0132d5)] -> xpath: //a[text()='Register']]
+Session ID: fee8f13d07a72a07021caefd1b0132d5
+2025-03-31 11:34:37.664 [TestNG-test-Test-2] INFO  testCases.TC002_LogInToMyAccount - Enter Login mail id
+2025-03-31 11:34:37.690 [TestNG-test-Test-2] INFO  testCases.TC002_LogInToMyAccount - <------TC002_LogInToMyAccount Test case is Failed ------>
+2025-03-31 12:54:32.820 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kiran\eclipse-workspace\OpenCart_V121_Artifact_ID\groupingtestng.xml"
+2025-03-31 12:54:33.367 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kiran\eclipse-workspace\OpenCart_V121_Artifact_ID\groupingtestng.xml
+
+2025-03-31 12:54:51.933 [main] INFO  testCases.TC001_AccountRegistration_Test - <-----TC001_AccountRegistration_Test script started from here----->
+2025-03-31 12:54:51.985 [main] INFO  testCases.TC001_AccountRegistration_Test - Click My account drop down
+2025-03-31 12:54:52.142 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on My account drop down
+2025-03-31 12:54:52.143 [main] INFO  testCases.TC001_AccountRegistration_Test - Select Register account from drop down
+2025-03-31 12:54:54.270 [main] INFO  testCases.TC001_AccountRegistration_Test - Selected Register account from drop down
+2025-03-31 12:54:54.291 [main] INFO  testCases.TC001_AccountRegistration_Test - Enter customer details
+2025-03-31 12:54:55.346 [main] INFO  testCases.TC001_AccountRegistration_Test - Entered customer details
+2025-03-31 12:54:55.347 [main] INFO  testCases.TC001_AccountRegistration_Test - Click on continue button
+2025-03-31 12:54:56.276 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on continue button
+2025-03-31 12:54:56.277 [main] INFO  testCases.TC001_AccountRegistration_Test - Validate the confirmation message
+2025-03-31 12:54:56.395 [main] INFO  testCases.TC001_AccountRegistration_Test - Validated the confirmation message
+2025-03-31 12:54:56.396 [main] INFO  testCases.TC001_AccountRegistration_Test - <-----TC001_AccountRegistration_Test script ends here----->
+2025-03-31 12:55:10.273 [main] INFO  testCases.TC002_LogInToMyAccount - <------TC002_LogInToMyAccount Test case is started ------>
+2025-03-31 12:55:10.276 [main] INFO  testCases.TC002_LogInToMyAccount - Click on My account dropdown
+2025-03-31 12:55:10.490 [main] INFO  testCases.TC002_LogInToMyAccount - Select Log In button
+2025-03-31 12:55:11.027 [main] INFO  testCases.TC002_LogInToMyAccount - Enter Login mail id
+2025-03-31 12:55:11.283 [main] INFO  testCases.TC002_LogInToMyAccount - Enter Login Password
+2025-03-31 12:55:11.452 [main] INFO  testCases.TC002_LogInToMyAccount - Click on Log in Button
+2025-03-31 12:55:12.506 [main] INFO  testCases.TC002_LogInToMyAccount - Validate My account page
+2025-03-31 12:55:12.506 [main] INFO  testCases.TC002_LogInToMyAccount - Validated My account page
+2025-03-31 12:55:13.093 [main] INFO  testCases.TC002_LogInToMyAccount - <------TC002_LogInToMyAccount Test case is Completed ------>
+2025-03-31 12:55:59.836 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kiran\eclipse-workspace\OpenCart_V121_Artifact_ID\groupingtestng.xml"
+2025-03-31 12:56:00.373 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kiran\eclipse-workspace\OpenCart_V121_Artifact_ID\groupingtestng.xml
+
+2025-03-31 12:56:10.387 [main] INFO  testCases.TC001_AccountRegistration_Test - <-----TC001_AccountRegistration_Test script started from here----->
+2025-03-31 12:56:10.423 [main] INFO  testCases.TC001_AccountRegistration_Test - Click My account drop down
+2025-03-31 12:56:10.575 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on My account drop down
+2025-03-31 12:56:10.575 [main] INFO  testCases.TC001_AccountRegistration_Test - Select Register account from drop down
+2025-03-31 12:56:14.711 [main] INFO  testCases.TC001_AccountRegistration_Test - Selected Register account from drop down
+2025-03-31 12:56:14.728 [main] INFO  testCases.TC001_AccountRegistration_Test - Enter customer details
+2025-03-31 12:56:15.831 [main] INFO  testCases.TC001_AccountRegistration_Test - Entered customer details
+2025-03-31 12:56:15.832 [main] INFO  testCases.TC001_AccountRegistration_Test - Click on continue button
+2025-03-31 12:56:16.796 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on continue button
+2025-03-31 12:56:16.796 [main] INFO  testCases.TC001_AccountRegistration_Test - Validate the confirmation message
+2025-03-31 12:56:16.876 [main] INFO  testCases.TC001_AccountRegistration_Test - Validated the confirmation message
+2025-03-31 12:56:16.877 [main] INFO  testCases.TC001_AccountRegistration_Test - <-----TC001_AccountRegistration_Test script ends here----->
+2025-03-31 12:56:21.724 [main] INFO  testCases.TC002_LogInToMyAccount - <------TC002_LogInToMyAccount Test case is started ------>
+2025-03-31 12:56:21.739 [main] INFO  testCases.TC002_LogInToMyAccount - Click on My account dropdown
+2025-03-31 12:56:21.985 [main] INFO  testCases.TC002_LogInToMyAccount - Select Log In button
+2025-03-31 12:56:23.151 [main] INFO  testCases.TC002_LogInToMyAccount - Enter Login mail id
+2025-03-31 12:56:23.448 [main] INFO  testCases.TC002_LogInToMyAccount - Enter Login Password
+2025-03-31 12:56:23.671 [main] INFO  testCases.TC002_LogInToMyAccount - Click on Log in Button
+2025-03-31 12:56:44.584 [main] INFO  testCases.TC002_LogInToMyAccount - Validate My account page
+2025-03-31 12:56:44.600 [main] INFO  testCases.TC002_LogInToMyAccount - My account page is not validated
+2025-03-31 12:56:44.600 [main] INFO  testCases.TC002_LogInToMyAccount - Invalid Credentials
+2025-03-31 19:01:33.875 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kiran\eclipse-workspace\OpenCart_V121_Artifact_ID\groupingtestng.xml"
+2025-03-31 19:01:34.422 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kiran\eclipse-workspace\OpenCart_V121_Artifact_ID\groupingtestng.xml
+
+2025-03-31 19:02:46.384 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kiran\eclipse-workspace\OpenCart_V121_Artifact_ID\groupingtestng.xml"
+2025-03-31 19:02:47.261 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kiran\eclipse-workspace\OpenCart_V121_Artifact_ID\groupingtestng.xml
+
+2025-03-31 19:02:58.094 [main] INFO  testCases.TC001_AccountRegistration_Test - <-----TC001_AccountRegistration_Test script started from here----->
+2025-03-31 19:02:58.167 [main] INFO  testCases.TC001_AccountRegistration_Test - Click My account drop down
+2025-03-31 19:02:58.326 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on My account drop down
+2025-03-31 19:02:58.328 [main] INFO  testCases.TC001_AccountRegistration_Test - Select Register account from drop down
+2025-03-31 19:03:00.331 [main] INFO  testCases.TC001_AccountRegistration_Test - Selected Register account from drop down
+2025-03-31 19:03:00.348 [main] INFO  testCases.TC001_AccountRegistration_Test - Enter customer details
+2025-03-31 19:03:01.515 [main] INFO  testCases.TC001_AccountRegistration_Test - Entered customer details
+2025-03-31 19:03:01.515 [main] INFO  testCases.TC001_AccountRegistration_Test - Click on continue button
+2025-03-31 19:03:02.514 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on continue button
+2025-03-31 19:03:02.516 [main] INFO  testCases.TC001_AccountRegistration_Test - Validate the confirmation message
+2025-03-31 19:03:02.633 [main] INFO  testCases.TC001_AccountRegistration_Test - Validated the confirmation message
+2025-03-31 19:03:02.633 [main] INFO  testCases.TC001_AccountRegistration_Test - <-----TC001_AccountRegistration_Test script ends here----->
+2025-03-31 19:03:07.105 [main] INFO  testCases.TC002_LogInToMyAccount - <------TC002_LogInToMyAccount Test case is started ------>
+2025-03-31 19:03:07.107 [main] INFO  testCases.TC002_LogInToMyAccount - Click on My account dropdown
+2025-03-31 19:03:07.334 [main] INFO  testCases.TC002_LogInToMyAccount - Select Log In button
+2025-03-31 19:03:07.875 [main] INFO  testCases.TC002_LogInToMyAccount - Enter Login mail id
+2025-03-31 19:03:08.131 [main] INFO  testCases.TC002_LogInToMyAccount - Enter Login Password
+2025-03-31 19:03:08.336 [main] INFO  testCases.TC002_LogInToMyAccount - Click on Log in Button
+2025-03-31 19:03:09.397 [main] INFO  testCases.TC002_LogInToMyAccount - Validate My account page
+2025-03-31 19:03:09.397 [main] INFO  testCases.TC002_LogInToMyAccount - Validated My account page
+2025-03-31 19:03:10.012 [main] INFO  testCases.TC002_LogInToMyAccount - <------TC002_LogInToMyAccount Test case is Completed ------>
+2025-03-31 23:08:38.982 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kiran\eclipse-workspace\OpenCart_V121_Artifact_ID\groupingtestng.xml"
+2025-03-31 23:08:39.554 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kiran\eclipse-workspace\OpenCart_V121_Artifact_ID\groupingtestng.xml
+
+2025-03-31 23:08:49.071 [main] INFO  testCases.TC001_AccountRegistration_Test - <-----TC001_AccountRegistration_Test script started from here----->
+2025-03-31 23:08:49.133 [main] INFO  testCases.TC001_AccountRegistration_Test - Click My account drop down
+2025-03-31 23:08:49.584 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on My account drop down
+2025-03-31 23:08:49.585 [main] INFO  testCases.TC001_AccountRegistration_Test - Select Register account from drop down
+2025-03-31 23:08:50.525 [main] INFO  testCases.TC001_AccountRegistration_Test - Selected Register account from drop down
+2025-03-31 23:08:50.537 [main] INFO  testCases.TC001_AccountRegistration_Test - Enter customer details
+2025-03-31 23:08:52.046 [main] INFO  testCases.TC001_AccountRegistration_Test - Entered customer details
+2025-03-31 23:08:52.046 [main] INFO  testCases.TC001_AccountRegistration_Test - Click on continue button
+2025-03-31 23:08:53.114 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on continue button
+2025-03-31 23:08:53.114 [main] INFO  testCases.TC001_AccountRegistration_Test - Validate the confirmation message
+2025-03-31 23:08:53.284 [main] INFO  testCases.TC001_AccountRegistration_Test - Validated the confirmation message
+2025-03-31 23:08:53.285 [main] INFO  testCases.TC001_AccountRegistration_Test - <-----TC001_AccountRegistration_Test script ends here----->
+2025-03-31 23:08:58.111 [main] INFO  testCases.TC002_LogInToMyAccount - <------TC002_LogInToMyAccount Test case is started ------>
+2025-03-31 23:08:58.112 [main] INFO  testCases.TC002_LogInToMyAccount - Click on My account dropdown
+2025-03-31 23:08:58.652 [main] INFO  testCases.TC002_LogInToMyAccount - Select Log In button
+2025-03-31 23:08:59.384 [main] INFO  testCases.TC002_LogInToMyAccount - Enter Login mail id
+2025-03-31 23:08:59.744 [main] INFO  testCases.TC002_LogInToMyAccount - Enter Login Password
+2025-03-31 23:08:59.937 [main] INFO  testCases.TC002_LogInToMyAccount - Click on Log in Button
+2025-03-31 23:09:01.344 [main] INFO  testCases.TC002_LogInToMyAccount - Validate My account page
+2025-03-31 23:09:01.345 [main] INFO  testCases.TC002_LogInToMyAccount - Validated My account page
+2025-03-31 23:09:02.204 [main] INFO  testCases.TC002_LogInToMyAccount - <------TC002_LogInToMyAccount Test case is Completed ------>
+2025-03-31 23:29:09.639 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kiran\eclipse-workspace\OpenCart_V121_Artifact_ID\E2EdryrunTestng.xml"
+2025-03-31 23:29:18.077 [main] INFO  testCases.TC001_AccountRegistration_Test - <-----TC001_AccountRegistration_Test script started from here----->
+2025-03-31 23:29:18.145 [main] INFO  testCases.TC001_AccountRegistration_Test - Click My account drop down
+2025-03-31 23:29:18.460 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on My account drop down
+2025-03-31 23:29:18.461 [main] INFO  testCases.TC001_AccountRegistration_Test - Select Register account from drop down
+2025-03-31 23:29:19.671 [main] INFO  testCases.TC001_AccountRegistration_Test - Selected Register account from drop down
+2025-03-31 23:29:19.681 [main] INFO  testCases.TC001_AccountRegistration_Test - Enter customer details
+2025-03-31 23:29:21.093 [main] INFO  testCases.TC001_AccountRegistration_Test - Entered customer details
+2025-03-31 23:29:21.094 [main] INFO  testCases.TC001_AccountRegistration_Test - Click on continue button
+2025-03-31 23:29:22.117 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on continue button
+2025-03-31 23:29:22.120 [main] INFO  testCases.TC001_AccountRegistration_Test - Validate the confirmation message
+2025-03-31 23:29:22.289 [main] INFO  testCases.TC001_AccountRegistration_Test - Validated the confirmation message
+2025-03-31 23:29:22.290 [main] INFO  testCases.TC001_AccountRegistration_Test - <-----TC001_AccountRegistration_Test script ends here----->
+2025-03-31 23:29:29.319 [main] INFO  testCases.TC002_LogInToMyAccount - <------TC002_LogInToMyAccount Test case is started ------>
+2025-03-31 23:29:29.321 [main] INFO  testCases.TC002_LogInToMyAccount - Click on My account dropdown
+2025-03-31 23:29:29.598 [main] INFO  testCases.TC002_LogInToMyAccount - Select Log In button
+2025-03-31 23:29:30.440 [main] INFO  testCases.TC002_LogInToMyAccount - Enter Login mail id
+2025-03-31 23:29:30.727 [main] INFO  testCases.TC002_LogInToMyAccount - Enter Login Password
+2025-03-31 23:29:30.943 [main] INFO  testCases.TC002_LogInToMyAccount - Click on Log in Button
+2025-03-31 23:29:32.201 [main] INFO  testCases.TC002_LogInToMyAccount - Validate My account page
+2025-03-31 23:29:32.201 [main] INFO  testCases.TC002_LogInToMyAccount - Validated My account page
+2025-03-31 23:29:32.902 [main] INFO  testCases.TC002_LogInToMyAccount - <------TC002_LogInToMyAccount Test case is Completed ------>
+2025-03-31 23:32:14.100 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kiran\eclipse-workspace\OpenCart_V121_Artifact_ID\E2EdryrunTestng.xml"
+2025-03-31 23:33:47.217 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kiran\eclipse-workspace\OpenCart_V121_Artifact_ID\E2EdryrunTestng.xml"
+2025-03-31 23:33:55.361 [main] INFO  testCases.TC001_AccountRegistration_Test - <-----TC001_AccountRegistration_Test script started from here----->
+2025-03-31 23:33:55.424 [main] INFO  testCases.TC001_AccountRegistration_Test - Click My account drop down
+2025-03-31 23:33:55.681 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on My account drop down
+2025-03-31 23:33:55.682 [main] INFO  testCases.TC001_AccountRegistration_Test - Select Register account from drop down
+2025-03-31 23:33:57.278 [main] INFO  testCases.TC001_AccountRegistration_Test - Selected Register account from drop down
+2025-03-31 23:33:57.289 [main] INFO  testCases.TC001_AccountRegistration_Test - Enter customer details
+2025-03-31 23:33:58.509 [main] INFO  testCases.TC001_AccountRegistration_Test - Entered customer details
+2025-03-31 23:33:58.509 [main] INFO  testCases.TC001_AccountRegistration_Test - Click on continue button
+2025-03-31 23:33:59.424 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on continue button
+2025-03-31 23:33:59.424 [main] INFO  testCases.TC001_AccountRegistration_Test - Validate the confirmation message
+2025-03-31 23:33:59.567 [main] INFO  testCases.TC001_AccountRegistration_Test - Validated the confirmation message
+2025-03-31 23:33:59.568 [main] INFO  testCases.TC001_AccountRegistration_Test - <-----TC001_AccountRegistration_Test script ends here----->
+2025-03-31 23:34:05.149 [main] INFO  testCases.TC002_LogInToMyAccount - <------TC002_LogInToMyAccount Test case is started ------>
+2025-03-31 23:34:05.153 [main] INFO  testCases.TC002_LogInToMyAccount - Click on My account dropdown
+2025-03-31 23:34:05.406 [main] INFO  testCases.TC002_LogInToMyAccount - Select Log In button
+2025-03-31 23:34:05.961 [main] INFO  testCases.TC002_LogInToMyAccount - Enter Login mail id
+2025-03-31 23:34:06.230 [main] INFO  testCases.TC002_LogInToMyAccount - Enter Login Password
+2025-03-31 23:34:06.391 [main] INFO  testCases.TC002_LogInToMyAccount - Click on Log in Button
+2025-03-31 23:34:07.681 [main] INFO  testCases.TC002_LogInToMyAccount - Validate My account page
+2025-03-31 23:34:07.682 [main] INFO  testCases.TC002_LogInToMyAccount - Validated My account page
+2025-03-31 23:34:08.288 [main] INFO  testCases.TC002_LogInToMyAccount - <------TC002_LogInToMyAccount Test case is Completed ------>
+2025-03-31 23:45:26.265 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kiran\eclipse-workspace\OpenCart_V121_Artifact_ID\E2EdryrunTestng.xml"
+2025-03-31 23:45:35.899 [main] INFO  testCases.TC001_AccountRegistration_Test - <-----TC001_AccountRegistration_Test script started from here----->
+2025-03-31 23:45:35.951 [main] INFO  testCases.TC001_AccountRegistration_Test - Click My account drop down
+2025-03-31 23:45:37.143 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on My account drop down
+2025-03-31 23:45:37.144 [main] INFO  testCases.TC001_AccountRegistration_Test - Select Register account from drop down
+2025-03-31 23:45:41.016 [main] INFO  testCases.TC001_AccountRegistration_Test - Selected Register account from drop down
+2025-03-31 23:45:41.026 [main] INFO  testCases.TC001_AccountRegistration_Test - Enter customer details
+2025-03-31 23:45:43.731 [main] INFO  testCases.TC001_AccountRegistration_Test - Entered customer details
+2025-03-31 23:45:43.732 [main] INFO  testCases.TC001_AccountRegistration_Test - Click on continue button
+2025-03-31 23:45:44.906 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on continue button
+2025-03-31 23:45:44.907 [main] INFO  testCases.TC001_AccountRegistration_Test - Validate the confirmation message
+2025-03-31 23:45:45.025 [main] INFO  testCases.TC001_AccountRegistration_Test - Validated the confirmation message
+2025-03-31 23:45:45.026 [main] INFO  testCases.TC001_AccountRegistration_Test - <-----TC001_AccountRegistration_Test script ends here----->
+2025-03-31 23:45:54.003 [main] INFO  testCases.TC002_LogInToMyAccount - <------TC002_LogInToMyAccount Test case is started ------>
+2025-03-31 23:45:54.007 [main] INFO  testCases.TC002_LogInToMyAccount - Click on My account dropdown
+2025-03-31 23:45:54.266 [main] INFO  testCases.TC002_LogInToMyAccount - Select Log In button
+2025-03-31 23:45:54.909 [main] INFO  testCases.TC002_LogInToMyAccount - Enter Login mail id
+2025-03-31 23:45:55.239 [main] INFO  testCases.TC002_LogInToMyAccount - Enter Login Password
+2025-03-31 23:45:55.517 [main] INFO  testCases.TC002_LogInToMyAccount - Click on Log in Button
+2025-03-31 23:45:56.974 [main] INFO  testCases.TC002_LogInToMyAccount - Validate My account page
+2025-03-31 23:45:56.974 [main] INFO  testCases.TC002_LogInToMyAccount - Validated My account page
+2025-03-31 23:45:57.699 [main] INFO  testCases.TC002_LogInToMyAccount - <------TC002_LogInToMyAccount Test case is Completed ------>
